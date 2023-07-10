@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phantomtester
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning web dev and Java.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me :- divyanshu2000singh@gmail.com
 
